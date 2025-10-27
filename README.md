@@ -1,5 +1,5 @@
 
-# PCF - pOOL cool Fender
+# PCF - Pool cool Fender
 
 PCF enables free (or cheap) serverless WebRTC signalling bucket. 
 
